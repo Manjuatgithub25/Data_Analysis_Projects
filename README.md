@@ -4,7 +4,9 @@
 2)	Analysed 10,000+ job listings using Excel formulas, filters, tables, and arrays.
 3)	Visualized salary distribution and job types by country using dynamic charts and maps.
 4)	Designed a clean, interactive dashboard with custom number formatting (e.g., 49.7k) that highlighted median salaries, job type distribution, and top platforms per role.
-   ![Jobs Dashboard](https://github.com/user-attachments/assets/7e1e0301-3213-4bc0-881f-6a6b562d1cfd)
+<p align="center">
+  <img src="https://github.com/Manjuatgithub25/Data_Analysis_Projects/blob/main/Job_market_salary_analysis/Jobs%20Dashboard.png" alt="Dashboard" width="500">
+</p>
 
 ## 2. Patient Wait List Analysis
 1)	Developed an end-to-end Power BI dashboard to monitor and analyse patient waiting lists from 2018 to 2021 for both inpatient and outpatient services.
