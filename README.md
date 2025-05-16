@@ -13,10 +13,17 @@
 2)	Used Power Query for data cleaning and transformation; merged multi-year datasets for consistent analysis.
 3)	Applied DAX measures to calculate KPIs such as average and median waiting times.
 4)	Built interactive visuals (bar/line charts, slicers, matrix tables) and drill-through pages to filter data by specialty and age groups.
-   ![Dashboard](https://github.com/user-attachments/assets/55c00558-f89d-4fd1-a936-e13f9cc8f283)
+   <p align="center">
+      <img src="https://github.com/Manjuatgithub25/Data_Analysis_Projects/blob/main/Patient_wait_list_analysis/Dashboard.png" alt="Dashboard" width="650">
+   </p>
 5)	Delivered a user-friendly, multi-layered dashboard that helped identify critical bottlenecks in patient care. Enabled both high-level overviews and granular insights, supporting data-driven decision-making in 
    hospital operations.
-  	![Detailed Page](https://github.com/user-attachments/assets/346ef29b-63f6-44ac-a360-ebba5460876e) ![Drill Down chart](https://github.com/user-attachments/assets/33e59f2f-1ac9-48c6-88ed-bb5db2d0ba79)
+  	<p align="center">
+      <img src="https://github.com/Manjuatgithub25/Data_Analysis_Projects/blob/main/Patient_wait_list_analysis/Detailed%20Page.png" alt="Dashboard" width="650">
+   </p> 
+   <p align="center">
+    <img src="(https://github.com/Manjuatgithub25/Data_Analysis_Projects/blob/main/Patient_wait_list_analysis/Drill%20Down%20chart.png" alt="Dashboard" width="650">
+   </p>
 
 
   	
