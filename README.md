@@ -5,7 +5,7 @@
 3)	Visualized salary distribution and job types by country using dynamic charts and maps.
 4)	Designed a clean, interactive dashboard with custom number formatting (e.g., 49.7k) that highlighted median salaries, job type distribution, and top platforms per role.
 <p align="center">
-  <img src="https://github.com/Manjuatgithub25/Data_Analysis_Projects/blob/main/Job_market_salary_analysis/Jobs%20Dashboard.png" alt="Dashboard" width="500">
+  <img src="https://github.com/Manjuatgithub25/Data_Analysis_Projects/blob/main/Job_market_salary_analysis/Jobs%20Dashboard.png" alt="Dashboard" width="650">
 </p>
 
 ## 2. Patient Wait List Analysis
