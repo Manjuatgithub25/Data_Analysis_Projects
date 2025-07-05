@@ -10,10 +10,10 @@
 5) This is a multi-layered dashboard that enables sales and profit analysis across category, segment, and region filters—helping stakeholders make data-driven business
    decisions.
     <p align="center">
-      <img src="[https://github.com/Manjuatgithub25/Data_Analysis_Projects/blob/main/Patient_wait_list_analysis/Dashboard.png](https://github.com/Manjuatgithub25/Data_Analysis_Projects/blob/main/Superstore_data_analysis/Summary_page.png)" alt="Dashboard" width="650">
+      <img src="https://github.com/Manjuatgithub25/Data_Analysis_Projects/blob/main/Superstore_data_analysis/Summary_page.png" alt="Dashboard" width="650">
    </p> 
    <p align="center">
-    <img src="[(https://github.com/Manjuatgithub25/Data_Analysis_Projects/blob/main/Patient_wait_list_analysis/Drill%20Down%20chart.png](https://github.com/Manjuatgithub25/Data_Analysis_Projects/blob/main/Superstore_data_analysis/Detailed_page.png)" alt="Dashboard" width="650">
+    <img src="https://github.com/Manjuatgithub25/Data_Analysis_Projects/blob/main/Superstore_data_analysis/Detailed_page.png" alt="Dashboard" width="650">
    </p>
    
 ## Job Market Salary Analysis
@@ -39,7 +39,7 @@
       <img src="https://github.com/Manjuatgithub25/Data_Analysis_Projects/blob/main/Patient_wait_list_analysis/Detailed%20Page.png" alt="Dashboard" width="650">
    </p> 
    <p align="center">
-    <img src="(https://github.com/Manjuatgithub25/Data_Analysis_Projects/blob/main/Patient_wait_list_analysis/Drill%20Down%20chart.png" alt="Dashboard" width="650">
+    <img src="https://github.com/Manjuatgithub25/Data_Analysis_Projects/blob/main/Patient_wait_list_analysis/Drill%20Down%20chart.png" alt="Dashboard" width="650">
    </p>
 
 
