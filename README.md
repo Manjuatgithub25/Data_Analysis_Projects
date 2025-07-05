@@ -9,8 +9,13 @@
    much churned customer contribute overall which will be helpful to analyse the reasons at customer level.
 5) This is a multi-layered dashboard that enables sales and profit analysis across category, segment, and region filters—helping stakeholders make data-driven business
    decisions.
-   ![image](https://github.com/user-attachments/assets/bd905084-48e5-4ae8-9cce-36c3146a137b) ![image](https://github.com/user-attachments/assets/5982105a-5692-41fa-9e58-1c35e7757311)
-
+    <p align="center">
+      <img src="[https://github.com/Manjuatgithub25/Data_Analysis_Projects/blob/main/Patient_wait_list_analysis/Dashboard.png](https://github.com/Manjuatgithub25/Data_Analysis_Projects/blob/main/Superstore_data_analysis/Summary_page.png)" alt="Dashboard" width="650">
+   </p> 
+   <p align="center">
+    <img src="[(https://github.com/Manjuatgithub25/Data_Analysis_Projects/blob/main/Patient_wait_list_analysis/Drill%20Down%20chart.png](https://github.com/Manjuatgithub25/Data_Analysis_Projects/blob/main/Superstore_data_analysis/Detailed_page.png)" alt="Dashboard" width="650">
+   </p>
+   
 ## Job Market Salary Analysis
 1)	Built an Excel-based analytics dashboard to explore global job listings and uncover salary trends across roles and countries.
 2)	Analysed 10,000+ job listings using Excel formulas, filters, tables, and arrays.
