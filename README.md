@@ -1,6 +1,6 @@
 # Data Analysis Projects
 
-## Super Store Data Analaysis
+## Super Store Data Analysis
 1) In the world of retail industry product optimization is very important to maximize the profitability. So the main goal of the project is intended to analyse
    the sales data from a superstore dataset to ease out the product optimization.
 3) In the part of data cleaning and transformation, messy date formats are handled in voth shipping & order dates and Churn feature is engineered to determine how much
